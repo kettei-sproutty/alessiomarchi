@@ -1,0 +1,15 @@
+# Cargo
+target
+
+# Trunk
+dist
+
+# Node
+node_modules
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+!bun.lockb
+
+# Styles
+styles/output.css
